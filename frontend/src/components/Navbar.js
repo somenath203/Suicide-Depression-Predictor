@@ -31,7 +31,7 @@ const Navbar = () => {
               </NavLink>
             </Tippy>
             <Tippy content="GitHub link of this Project">
-              <a className="mr-5 text-violet-800 hover:text-violet-700 cursor-pointer animate duration-100">
+              <a className="mr-5 text-violet-800 hover:text-violet-700 cursor-pointer animate duration-100" href="https://github.com/somenath203/Suicide-Depression-Predictor" target="_blank">
                 <i className="fa-brands fa-github text-xl lg:text-3xl"></i>
               </a>
             </Tippy>
