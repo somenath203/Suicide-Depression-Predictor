@@ -7,8 +7,8 @@
 - [About the Frontend of the Project](#About-the-Frontend-of-the-Project)
 - [About the backend of the Project](#About-the-Backend-of-the-Project)
 - [About the machine learning Model](#About-the-Machine-Learning-Model)
-- [Links](#Links)
 - [Deployment](#Deployment)
+- [Links](#Links)
 - [Contributions](#Contributions)
 - [Warning](#Warning)
 
@@ -38,6 +38,10 @@ learning model for the prediction
 The machine learning model of this project is created with the help of Support Vector Classifier. The accuracy on training data is around 95% while the accuracy on test data is around 90% and the model is trained 
 on a dataset of 10,000 datapoints where 5000 datapoints belong to the category of 'suicical/depression thoughts' and the other 5000 datapoints belong to the category of 'non suicical/depression thoughts'.
 
+## Deployment
+
+The frontend of the project is deployed in Vercel whereas the backend of the project is deployed in Render with the help of Docker.
+
 ## Links
 
 Live preview of this project: https://suicidal-thought-and-depression-predictor-frontend.vercel.app/
@@ -47,10 +51,6 @@ Link to the deployed API of the project: https://suicidal-thought-depression-pre
 Link to the swagger documentation of the backend API of the project: https://suicidal-thought-depression-predictor.onrender.com/docs
 
 Link to the jupyter notebook of the machine learning model: https://github.com/somenath203/Suicide-Depression-Predictor/blob/main/backend/suicide_depression_classification_kmeans.ipynb
-
-## Deployment
-
-The frontend of the project is deployed in Vercel whereas the backend of the project is deployed in Render with the help of Docker.
 
 ## Contributions
 
