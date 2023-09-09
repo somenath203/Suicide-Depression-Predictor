@@ -1,4 +1,5 @@
 # Suicide-Depression-Predictor
+![](https://github.com/somenath203/Suicide-Depression-Predictor/assets/83393190/f75b8246-4685-4276-8879-950ac2bf9bc8)
 
 ## Contents
 
