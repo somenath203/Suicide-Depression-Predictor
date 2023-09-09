@@ -44,7 +44,7 @@ The frontend of the project is deployed in Vercel whereas the backend of the pro
 
 ## Links
 
-Live preview of this project: https://suicidal-thought-and-depression-predictor-frontend.vercel.app/
+Live preview of the project: https://suicidal-thought-and-depression-predictor-frontend.vercel.app/
 
 Link to the deployed API of the project: https://suicidal-thought-depression-predictor.onrender.com/
 
