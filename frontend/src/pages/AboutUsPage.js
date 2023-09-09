@@ -11,10 +11,10 @@ const AboutUsPage = () => {
                         </h1>
                         <p className="lg:w-2/3 mx-auto leading-relaxed mt-3 text-sm lg:text-lg font-poppins text-violet-700">
                             The Suicidal Thoughts and Depression Predictor is an A.I. powered project that
-                            predicts the whether a person is having suicidal thoughts and depression inside him/her based
+                            predicts whether a person is having suicidal thoughts and depression inside him/her based
                             on the thing the user speaks in the mic. The project uses a supervised machine
-                            learning algorithm called Support Vector Classifier to train a model on a dataset
-                            contains various suicidal/depression and normal data. The accuracy of the model
+                            learning algorithm called Support Vector Classifier which is a model that has been trained on a dataset that
+                            contains a total of 10,000 suicidal/depression and normal data. The accuracy of the model
                             on the training data is around 95% and on testing data, the
                             accuracy is around 90%. With the help of this project, one can predict whether a 
                             person is suffering from suicidal/depression thoughts or not.
