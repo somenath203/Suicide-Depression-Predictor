@@ -16,7 +16,7 @@
 
 ## Introduction 
 
-The Suicide-Depression-Predictor is a project that predicts the risk of suicide and depression in individuals. The project can be used to identify individuals who are at risk of suicide or depression, so that they can receive early intervention and treatment.
+The Suicide-Depression-Predictor is a healthcare project that uses machine learning to predict the risk of suicide and depression in individuals. It can be used to identify those who are at risk of suicide or depression so that they can receive early intervention and treatment.
 The Suicide-Depression-Predictor is a valuable tool for mental health professionals, as it can help them to better understand the risk factors for suicide and depression. It can also be used to raise awareness of suicide and depression, and to promote suicide prevention.
 
 ## Components of the Project
