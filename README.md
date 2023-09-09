@@ -21,7 +21,7 @@ The Suicide-Depression-Predictor is a valuable tool for mental health profession
 
 ## Components of the Project
 
-The project is divided into three Parts: Frontend, Backend and the Machine Learning Model
+The project is divided into three parts: Frontend, Backend and the Machine Learning Model
 
 ## About the Frontend of the Project
 
