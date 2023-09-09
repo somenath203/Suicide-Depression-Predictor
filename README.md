@@ -26,7 +26,7 @@ The project is divided into three Parts: Frontend, Backend and the Machine Learn
 ## About the Frontend of the Project
 
 The user-friendly frontend of this project is built with ReactJS and TailwindCSS. It allows users to make predictions about their risk of suicide or depression using voice-to-text technology. Here, the user have
-to speak through there mic and then, when the user has finished speaking, all the words spoke by the user will be displayed in the textarea. The user can then submit the response to get the desired prediction.
+to speak through there mic and then, when the user has finished speaking, all the words spoke by the user will be displayed in the textarea. The user can then submit the response to get the desired prediction and the result of the prediction will be shown in the form of a sweetalert modal.
 
 ## About the Backend of the Project
 
