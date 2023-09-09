@@ -1,0 +1,12 @@
+fastapi
+nltk
+pydantic
+scikit-learn
+numpy
+pandas
+seaborn
+matplotlib
+chardet
+wordcloud
+uvicorn
+scipy
