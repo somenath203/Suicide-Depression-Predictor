@@ -129,9 +129,9 @@ const FormPage = () => {
         setLoading(false);
 
         Swal.fire({
-          title: '<h2>Server Error</h2>',
+          title: '<h2>Internal Server Error</h2>',
           icon: 'error',
-          html: 'Crongragulations, you are not suffering from any kind of suicidal or depression thoughts.'
+          html: 'Something went wrong!! Please try later.'
         })
 
       };
