@@ -1,6 +1,6 @@
 # Suicide-Depression-Predictor
 
-## Content
+## Contents
 
 - [Introduction](#Introduction)
 - [Components of the Project](#Components-of-the-Project)
