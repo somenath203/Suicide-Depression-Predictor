@@ -52,6 +52,8 @@ Link to the swagger documentation of the backend API of the project: https://sui
 
 Link to the jupyter notebook of the machine learning model: https://github.com/somenath203/Suicide-Depression-Predictor/blob/main/backend/suicide_depression_classification_kmeans.ipynb
 
+Link to the dataset used to train the machine learning model: https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+
 ## Contributions
 
 I have designed the entire frontend of this project whereas my teammate Vishal Lazrus created the entire backend FastAPI and the machine learning model.
