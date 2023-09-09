@@ -5,8 +5,8 @@
 - [Introduction](#Introduction)
 - [Components of the Project](#Components-of-the-Project)
 - [About the Frontend of the Project](#About-the-Frontend-of-the-Project)
-- [About the backend of the Project](#About-the-backend-of-the-Project)
-- [About the machine learning Model](#About-the-machine-learning-Model)
+- [About the backend of the Project](#About-the-Backend-of-the-Project)
+- [About the machine learning Model](#About-the-Machine-Learning-Model)
 - [Links](#Links)
 - [Deployment](#Deployment)
 - [Contributions](#Contributions)
@@ -28,12 +28,12 @@ The project is divided into three Parts: Frontend, Backend and the Machine Learn
 The user-friendly frontend of this project is built with ReactJS and TailwindCSS. It allows users to make predictions about their risk of suicide or depression using voice-to-text technology. Here, the user have
 to speak through there mic and then, when the user has finished speaking, all the words spoke by the user will be displayed in the textarea. The user can then submit the response to get the desired prediction.
 
-## About the backend of the Project
+## About the Backend of the Project
 
 The backend of this project is created with the help of FastAPI. After the user clicks on Submit Button in the frontend, the response is send to the FastAPI via axios and then FastAPI forwards this response to the machine 
 learning model for the prediction
 
-## About the machine learning Model
+## About the Machine Learning Model
 
 The machine learning model of this project is created with the help of Support Vector Classifier. The accuracy on training data is around 95% while the accuracy on test data is around 90% and the model is trained 
 on a dataset of 10,000 datapoints where 5000 datapoints belong to the category of 'suicical/depression thoughts' and the other 5000 datapoints belong to the category of 'non suicical/depression thoughts'.
